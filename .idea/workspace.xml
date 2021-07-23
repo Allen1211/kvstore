@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="91391607-6917-4d12-bc41-63c4e1bb49ea" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageOptionsProvider">
+    <option name="myAddOrReplace" value="1" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="$PROJECT_DIR$/../../env/go" />
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1vYnCt8VD5Rk9Yculnn4ItYZxZo" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\project\kvstore-server\client\main" />
+      <recent name="D:\project\kvstore-server\server\serv" />
+      <recent name="D:\project\kvstore-server\base" />
+      <recent name="D:\project\kvstore-server\server\main" />
+      <recent name="D:\project\kvstore-server\server" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Build.go build kvstore-server/client/main">
+    <configuration name="go build kvstore-server/client/main" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="kvstore-server" />
+      <working_directory value="$PROJECT_DIR$" />
+      <parameters value="-addr &quot;localhost:9001&quot; -i 2 -u 1 -g 2 -d 1 -r 1 -t 1" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/client/main/main.go" />
+      <package value="kvstore-server/client/main" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build kvstore-server/server/main" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="kvstore-server" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/server/main/main.go" />
+      <package value="kvstore-server/server/main" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="devcloud" type="GoRemoteDebugConfigurationType" factoryName="Go Remote" host="9.135.103.95">
+      <method v="2" />
+    </configuration>
+    <configuration name="BenchmarkFixedGetSet in kvstore-server/server/store/hashmap" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="kvstore-server" />
+      <working_directory value="$PROJECT_DIR$/server/store/hashmap" />
+      <framework value="gobench" />
+      <kind value="PACKAGE" />
+      <package value="kvstore-server/server/store/hashmap" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QBenchmarkFixedGetSet\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestGetParallel in kvstore-server/client/main" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="kvstore-server" />
+      <working_directory value="$PROJECT_DIR$/client/main" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="kvstore-server/client/main" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QTestGetParallel\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestInsertParallel in kvstore-server/client/main" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="kvstore-server" />
+      <working_directory value="$PROJECT_DIR$/client/main" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="kvstore-server/client/main" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QTestInsertParallel\E$" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Go Build.go build kvstore-server/client/main" />
+      <item itemvalue="Go Build.go build kvstore-server/server/main" />
+      <item itemvalue="Go Remote.devcloud" />
+      <item itemvalue="Go Test.TestInsertParallel in kvstore-server/client/main" />
+      <item itemvalue="Go Test.TestGetParallel in kvstore-server/client/main" />
+      <item itemvalue="Go Test.BenchmarkFixedGetSet in kvstore-server/server/store/hashmap" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build kvstore-server/client/main" />
+        <item itemvalue="Go Build.go build kvstore-server/server/main" />
+        <item itemvalue="Go Test.BenchmarkFixedGetSet in kvstore-server/server/store/hashmap" />
+        <item itemvalue="Go Test.TestInsertParallel in kvstore-server/client/main" />
+        <item itemvalue="Go Test.TestGetParallel in kvstore-server/client/main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="91391607-6917-4d12-bc41-63c4e1bb49ea" name="Default Changelist" comment="" />
+      <created>1626747766710</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1626747766710</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="872" y="358" key="#Deployment" timestamp="1626840721945">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="872" y="358" key="#Deployment/0.0.2560.1400@0.0.2560.1400" timestamp="1626840721945" />
+    <state x="494" y="334" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1627044377087">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="494" y="334" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1627044377087" />
+    <state width="668" height="466" key="DebuggerActiveHint" timestamp="1627039759146">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="668" height="466" key="DebuggerActiveHint/0.0.2560.1400@0.0.2560.1400" timestamp="1627039759146" />
+    <state width="2517" height="306" key="GridCell.Tab.0.bottom" timestamp="1627046791004">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="306" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1627046791004" />
+    <state width="2517" height="306" key="GridCell.Tab.0.center" timestamp="1627046791004">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="306" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1627046791004" />
+    <state width="2517" height="306" key="GridCell.Tab.0.left" timestamp="1627046791004">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="306" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1627046791004" />
+    <state width="2517" height="306" key="GridCell.Tab.0.right" timestamp="1627046791004">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="306" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1627046791004" />
+    <state width="2517" height="283" key="GridCell.Tab.1.bottom" timestamp="1627044935060">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="283" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1627044935060" />
+    <state width="2517" height="283" key="GridCell.Tab.1.center" timestamp="1627044935060">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="283" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1627044935060" />
+    <state width="2517" height="283" key="GridCell.Tab.1.left" timestamp="1627044935060">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="283" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1627044935060" />
+    <state width="2517" height="283" key="GridCell.Tab.1.right" timestamp="1627044935060">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="283" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1627044935060" />
+    <state x="1128" y="597" key="WebDeployment.AddServerDialog.v.1" timestamp="1626840691566">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1128" y="597" key="WebDeployment.AddServerDialog.v.1/0.0.2560.1400@0.0.2560.1400" timestamp="1626840691566" />
+    <state width="647" height="703" key="XDebugger.FullValuePopup" timestamp="1626855702235">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="647" height="703" key="XDebugger.FullValuePopup/0.0.2560.1400@0.0.2560.1400" timestamp="1626855702235" />
+    <state x="1462" y="432" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1626856406596">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1462" y="432" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.2560.1400@0.0.2560.1400" timestamp="1626856406596" />
+    <state x="1158" y="430" key="ftp.server.browser" timestamp="1626840713686">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1158" y="430" key="ftp.server.browser/0.0.2560.1400@0.0.2560.1400" timestamp="1626840713686" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/server/serv/serv.go</url>
+          <line>2</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="DlvErrorBreakpoint" />
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/kvstore_server$go_test_kvstore_server_base.out" NAME="go test kvstore-server/base Coverage Results" MODIFIED="1626960653731" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="GoCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/kvstore_server$TestRandomOpByProbability_in_kvstore_server_base.out" NAME="TestRandomOpByProbability in kvstore-server/base Coverage Results" MODIFIED="1626873771024" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="GoCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/kvstore_server$go_test_kvstore_server_client.out" NAME="go test kvstore-server/client Coverage Results" MODIFIED="1626835971516" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="GoCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/kvstore_server$TestUpdate_in_kvstore_server_client.out" NAME="TestUpdate in kvstore-server/client Coverage Results" MODIFIED="1626836057558" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="GoCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/kvstore_server$TestGetParallel_in_kvstore_server_client.out" NAME="TestGetParallel in kvstore-server/client Coverage Results" MODIFIED="1626835870667" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="GoCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/kvstore_server$TestRange_in_kvstore_server_client.out" NAME="TestRange in kvstore-server/client Coverage Results" MODIFIED="1626835892897" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="GoCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/kvstore_server$go_test_kvstore_server_client_main.out" NAME="go test kvstore-server/client/main Coverage Results" MODIFIED="1626960753527" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="GoCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
